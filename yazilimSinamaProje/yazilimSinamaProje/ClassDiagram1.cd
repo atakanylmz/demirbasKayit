@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="yazilimSinamaProje.AnaMenu" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMIBQAAACQAAAoAAACAQAACQAgAAQAAACBAYAAAAAA=</HashCode>
+      <FileName>AnaMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.DemirbasAramaListeleme" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIoACCQAKQAgRACEQCBKAAqwEgAAABAKCZAAAQAYAA=</HashCode>
+      <FileName>DemirbasAramaListeleme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.DemirbasAtamalar" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAQAAAAAAAAAAAAAAAACABAAAAQAAA=</HashCode>
+      <FileName>DemirbasAtamalar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.DemirbasStok" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAABAAAASAFEAAAAAAEAAAAAAAQAAAAAEAAAAA=</HashCode>
+      <FileName>DemirbasStok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.demirbasTuru" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABgAAAAAAAEgAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>demirbasTuru.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.departmanBilgi" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAEAAACAAAAAAAAAEAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>departmanBilgi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.fakulteBilgi" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAIAAAAAQgAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fakulteBilgi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.Form1" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAIBAAAICAAAACAAAQAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.kullanicilar" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAEAAAAAEAACBAAACBAAA=</HashCode>
+      <FileName>kullanicilar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.OdaDemirbasIslem" Collapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACgAAACAAgZCAFACAAAACQAgAAAiAICBwABAAEEQ=</HashCode>
+      <FileName>OdaDemirbasIslem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.OdaDemirbasListesi" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgRAAEACAAAACQAAAAAiAIAhAAAAQIIA=</HashCode>
+      <FileName>OdaDemirbasListesi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.odalarBilgi" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEABAAAAAwCBAACAAAEAAAAACAAABAAAAAAAA=</HashCode>
+      <FileName>odalarBilgi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.OdaTanimlama" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAARAAAACAAAACQAIAgCEAACBAEAAAAAA=</HashCode>
+      <FileName>OdaTanimlama.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.PersonelDemirbas" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAgRAAEACAAAACQAgAAAAEIABAAAAAIIA=</HashCode>
+      <FileName>PersonelDemirbas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.personeller" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAEQAAAAAAAABAAAAAAAI=</HashCode>
+      <FileName>personeller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.Program" Collapsed="true">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.StokKaydi" Collapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAQAACAAARACAASABBACQAIAgAAAACBAABAABAA=</HashCode>
+      <FileName>StokKaydi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.veriler" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>veriler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.Properties.Resources" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yazilimSinamaProje.Properties.Settings" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

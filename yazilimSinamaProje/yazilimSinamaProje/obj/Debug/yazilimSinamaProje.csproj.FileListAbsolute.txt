@@ -1,0 +1,35 @@
+C:\Users\Serap\Desktop\nesne\proje\yazilimSinamaProje\yazilimSinamaProje\bin\Debug\yazilimSinamaProje.exe.config
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\bin\Debug\yazilimSinamaProje.exe.config
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\bin\Debug\yazilimSinamaProje.exe
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\bin\Debug\yazilimSinamaProje.pdb
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.Form1.resources
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.AnaMenu.resources
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.Properties.Resources.resources
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.exe
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.pdb
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.PersonelDemirbas.resources
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.StokKaydi.resources
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.OdaTanimlama.resources
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.OdaDemirbasIslem.resources
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.DemirbasAramaListeleme.resources
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.OdaDemirbasListesi.resources
+C:\Users\Serap\Desktop\yazilimSinamaProje\yazilimSinamaProje\bin\Debug\itextsharp.dll
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\bin\Debug\yazilimSinamaProje.exe.config
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.pdb
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\bin\Debug\yazilimSinamaProje.exe
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\bin\Debug\yazilimSinamaProje.pdb
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\bin\Debug\itextsharp.dll
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.DemirbasAramaListeleme.resources
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.Form1.resources
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.AnaMenu.resources
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.OdaDemirbasIslem.resources
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.OdaDemirbasListesi.resources
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.OdaTanimlama.resources
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.PersonelDemirbas.resources
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.Properties.Resources.resources
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.StokKaydi.resources
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\Git için\yazilimSinamaProje Atakan Kaan\yazilimSinamaProje\yazilimSinamaProje\obj\Debug\yazilimSinamaProje.exe

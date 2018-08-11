@@ -1,0 +1,9 @@
+C:\Users\Serap\Desktop\yazilimSinamaProje\YazilimProjeTesti\bin\Debug\YazilimProjeTesti.dll
+C:\Users\Serap\Desktop\yazilimSinamaProje\YazilimProjeTesti\bin\Debug\YazilimProjeTesti.pdb
+C:\Users\Serap\Desktop\yazilimSinamaProje\YazilimProjeTesti\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Serap\Desktop\yazilimSinamaProje\YazilimProjeTesti\bin\Debug\yazilimSinamaProje.exe
+C:\Users\Serap\Desktop\yazilimSinamaProje\YazilimProjeTesti\bin\Debug\itextsharp.dll
+C:\Users\Serap\Desktop\yazilimSinamaProje\YazilimProjeTesti\bin\Debug\yazilimSinamaProje.pdb
+C:\Users\Serap\Desktop\yazilimSinamaProje\YazilimProjeTesti\obj\Debug\YazilimProjeTesti.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\yazilimSinamaProje\YazilimProjeTesti\obj\Debug\YazilimProjeTesti.dll
+C:\Users\Serap\Desktop\yazilimSinamaProje\YazilimProjeTesti\obj\Debug\YazilimProjeTesti.pdb
